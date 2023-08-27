@@ -14,26 +14,28 @@ Below is an overview of the technologies used and how to interact with the app.
 
 <hr/>
 
-#Technologies Used
+# Technologies Used
 
--Framer Motion: Used to add smooth animations and transitions to the app's UI elements, providing an engaging user experience.
+- Framer Motion: Used to add smooth animations and transitions to the app's UI elements, providing an engaging user experience.
 
--React Vite: The project is set up with Vite, a fast build tool for React apps. It enables quick development and efficient bundling of the app's assets.
+- React Vite: The project is set up with Vite, a fast build tool for React apps. It enables quick development and efficient bundling of the app's assets.
 
--Valtio: Valtio is employed for state management. It offers a minimalist and performant way to manage and synchronize the app's state across components.
+- Valtio: Valtio is employed for state management. It offers a minimalist and performant way to manage and synchronize the app's state across components.
 
--3D GLTF: The project integrates 3D models in GLTF format to showcase T-shirt designs in a visually appealing and interactive manner.
+- 3D GLTF: The project integrates 3D models in GLTF format to showcase T-shirt designs in a visually appealing and interactive manner.
 
--Maath: Maath is utilized to enhance mathematical operations and calculations within the app, ensuring accurate and smooth interactions.
+- Maath: Maath is utilized to enhance mathematical operations and calculations within the app, ensuring accurate and smooth interactions.
 
--Three.js: This powerful JavaScript library is used to create and manipulate 3D scenes in the browser. It's responsible for rendering the 3D T-shirt preview.
+- Three.js: This powerful JavaScript library is used to create and manipulate 3D scenes in the browser. It's responsible for rendering the 3D T-shirt preview.
 
 <hr/>
 
--Customize T-shirt colors using the ColorPicker component powered by Framer Motion for smooth color transitions.
+# App Features
 
--Choose from a selection of AI designs using the AIPicker component.
+- Customize T-shirt colors using the ColorPicker component powered by Framer Motion for smooth color transitions.
 
--Upload your own design files with the FilePicker component.
+- Choose from a selection of AI designs using the AIPicker component.
 
--Interact with the 3D T-shirt preview, powered by Three.js and GLTF.
+- Upload your own design files with the FilePicker component.
+
+- Interact with the 3D T-shirt preview, powered by Three.js and GLTF.
