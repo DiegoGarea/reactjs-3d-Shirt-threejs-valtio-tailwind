@@ -34,8 +34,6 @@ Below is an overview of the technologies used and how to interact with the app.
 
 - Customize T-shirt colors using the ColorPicker component powered by Framer Motion for smooth color transitions.
 
-- Choose from a selection of AI designs using the AIPicker component.
-
 - Upload your own design files with the FilePicker component.
 
 - Interact with the 3D T-shirt preview, powered by Three.js and GLTF.
